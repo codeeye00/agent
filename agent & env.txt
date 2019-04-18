@@ -1,0 +1,14 @@
+all resources - 
+https://www.quora.com/How-do-I-learn-reinforcement-learning
+
+custom environment-
+https://medium.com/@apoddar573/making-your-own-custom-environment-in-gym-c3b65ff8cdaa
+
+understanding agent and env-
+https://towardsdatascience.com/reinforcement-learning-with-openai-d445c2c687d2
+
+where to start-
+https://medium.freecodecamp.org/deep-reinforcement-learning-where-to-start-291fb0058c01
+
+Agent Design-
+https://designrl.github.io/

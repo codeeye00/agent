@@ -1,0 +1,3 @@
+first seeit- https://medium.freecodecamp.org/an-introduction-to-reinforcement-learning-4339519de419
+second see it- https://skymind.ai/wiki/deep-reinforcement-learning
+third see it- https://www.analyticsvidhya.com/blog/2017/01/introduction-to-reinforcement-learning-implementation/
